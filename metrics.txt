@@ -1,0 +1,17 @@
+Test accuracy: 94.31%  (9431 / 10000)
+Training time: 493.7 s on cpu
+Epochs per class: 5
+Batch size: 128
+Learning rate: 0.001
+Latent dim: 20
+Per-class priors (from training set):
+  P(omega_0) = 0.0987  (5923 images)
+  P(omega_1) = 0.1124  (6742 images)
+  P(omega_2) = 0.0993  (5958 images)
+  P(omega_3) = 0.1022  (6131 images)
+  P(omega_4) = 0.0974  (5842 images)
+  P(omega_5) = 0.0903  (5421 images)
+  P(omega_6) = 0.0986  (5918 images)
+  P(omega_7) = 0.1044  (6265 images)
+  P(omega_8) = 0.0975  (5851 images)
+  P(omega_9) = 0.0992  (5949 images)
